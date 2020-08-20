@@ -1,0 +1,3 @@
+# Classification of Malaria-Infected Cells Using Convolutional Neural Networks
+
+Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected mosquitoes. Automation of the diagnosis process will enable accurate diagnosis of the disease and hence holds the promise of delivering reliable health-care to resource-scarce areas. Machine learning technologies have been used for automated diagnosis of malaria.[1](https://www.intechopen.com/books/machine-learning-advanced-techniques-and-emerging-applications/classification-of-malaria-infected-cells-using-deep-convolutional-neural-networks)
